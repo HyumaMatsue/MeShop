@@ -1,0 +1,6 @@
+framework module Pods_MeShopUITests {
+  umbrella header "Pods-MeShopUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

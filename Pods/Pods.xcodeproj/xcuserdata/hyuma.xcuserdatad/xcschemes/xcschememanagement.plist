@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-MeShop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MeShopTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MeShopUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PureLayout.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>50F9FB33FF19E72744BE2B09411FECB2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>61B0DEF0E7B038FAC2DD695C83861578</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>670EAA936003C80131DAE52F1CBE533B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E5A8FF58B866FF32DE34750273F56CBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
